@@ -1,57 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f29,100:0d1117&height=180&section=header&text=AKSHAT%20BANSAL&fontSize=52&fontColor=00F5D4&animation=fadeIn&fontAlignY=45&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Agentic%20AI%20Builder&descAlignY=68&descColor=8B949E&descSize=18" width="100%"/>
+<!-- Top Glowing Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Glowing Line" />
 
 <br/>
 
-<i>Building intelligent systems where LLMs meet real-world applications.</i>
+  <a href="https://github.com/akshatbansal13">
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=600&size=60&pause=5000&color=0b5d0b&center=true&vCenter=true&width=900&height=60&lines=AKSHAT+BANSAL" alt="Akshat Bansal" />
+</a>
+<br/>
 
-<br/><br/>
+<!-- Subtitle -->
+<p align="center">
+  <b>AI/ML Engineer & Agentic Systems Developer</b>
+</p>
 
-<a href="https://github.com/akshatbansal13"><img src="https://img.shields.io/badge/GitHub-akshatbansal13-0d1117?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0d1117" /></a>
-<a href="https://www.linkedin.com/in/akshat-bansal-900364323/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4&labelColor=0d1117" /></a>
-<a href="https://huggingface.co/aksh13"><img src="https://img.shields.io/badge/Hugging_Face-aksh13-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /></a>
+<br/>
 
-<br/><br/>
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://github.com/akshatbansal13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akshat13bansal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://huggingface.co/aksh13"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+</p>
 
-<table>
-<tr><td>
+<!-- UI Menu Bar -->
+<p align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/ABOUT-21262d?style=for-the-badge" alt="About"/></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/STACK-21262d?style=for-the-badge" alt="Stack"/></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-21262d?style=for-the-badge" alt="Projects"/></a>
+  <a href="#contribution-graph"><img src="https://img.shields.io/badge/CONTRIBUTIONS-21262d?style=for-the-badge" alt="Contributions"/></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-21262d?style=for-the-badge" alt="Contact"/></a>
+</p>
 
-```
-akshat@github:~$ whoami
-> AI/ML Engineer · Generative AI Developer
-
-akshat@github:~$ currently_building
-> Agentic AI  •  RAG Pipelines  •  Multi-Agent LLM Systems
-
-akshat@github:~$ status
-> ████████████████████  ONLINE
-```
-
-</td></tr>
-</table>
 
 </div>
+<br/>
+
+## 👤 About
+I’m a Computer Science undergraduate specializing in AI/ML, passionate about building GenAI, Agentic AI, and intelligent data-driven systems.
+
+I’m particularly interested in the intersection of AI/ML and Finance, exploring how intelligent systems can analyze data, automate decision-making, and build smarter financial applications.
+
+Currently exploring LLMs, Agentic AI, RAG, finance and financial technology.
 
 <br/>
 
-<div align="center">
-
-[**ABOUT**](#about) &nbsp;·&nbsp; [**STACK**](#stack) &nbsp;·&nbsp; [**PROJECTS**](#projects) &nbsp;·&nbsp; [**STATS**](#stats) &nbsp;·&nbsp; [**CONTRIBUTIONS**](#contribution-graph) &nbsp;·&nbsp; [**CONTACT**](#contact)
-
-</div>
-
-<br/>
-
-## About
-
-Final-year Computer Science student (B.Tech, Graphic Era Deemed University) building **practical, production-shaped AI systems** — not just experimenting with models. My work centers on **agentic architectures**: multi-agent orchestration with LangGraph, retrieval-augmented pipelines backed by vector databases, and full-stack applications that put LLMs to work on real problems rather than demos.
-
-I also ship outside the AI stack — real-time systems, DSL compilers, role-based platforms — because building the plumbing around an AI system is as important as the model calls themselves.
-
-<br/>
-
-## Stack
+## ⚙️ Stack
 
 <table>
 <tr>
@@ -63,17 +58,23 @@ I also ship outside the AI stack — real-time systems, DSL compilers, role-base
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-F4A261?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
 <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
 </td>
 <td valign="top" width="50%">
 
 **ML / Data**
 <br/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/yfinance-800080?style=flat-square"/>
 
 </td>
@@ -87,7 +88,6 @@ I also ship outside the AI stack — real-time systems, DSL compilers, role-base
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
 </td>
@@ -110,9 +110,12 @@ I also ship outside the AI stack — real-time systems, DSL compilers, role-base
 <br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/EJS-90A93A?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </td>
 <td valign="top" width="50%">
@@ -122,8 +125,6 @@ I also ship outside the AI stack — real-time systems, DSL compilers, role-base
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSIX%20Threads-333333?style=flat-square"/>
 
 </td>
 </tr>
@@ -131,7 +132,7 @@ I also ship outside the AI stack — real-time systems, DSL compilers, role-base
 
 <br/>
 
-## Projects
+## 🚀 Projects
 
 <table width="100%">
 <tr>
@@ -140,7 +141,7 @@ I also ship outside the AI stack — real-time systems, DSL compilers, role-base
 ### 🧠 [Finora](https://github.com/akshatbansal13/Finora)
 **Agentic Investment Research & Portfolio Intelligence Platform**
 
-Six specialized LLM agents (Fundamental, Technical, Sentiment, Macro, Risk, Strategy) collaborate through a LangGraph directed graph to produce investment analysis, backed by a RAG pipeline over SEC filings and Modern Portfolio Theory-based allocation optimization.
+Developed a comprehensive financial intelligence platform featuring a LangGraph-orchestrated multi-agent workflow to automate deep market research. It integrates Retrieval-Augmented Generation (RAG) via Qdrant vector search to parse SEC filings, and implements Modern Portfolio Theory (MPT) algorithms using PyPortfolioOpt to deliver mathematically optimized asset allocations. Engineered the core AI orchestration layer using Groq/Gemini LLMs and optimized the FastAPI backend with Redis caching and concurrent ThreadPools to process live market data efficiently for a Next.js dashboard.
 
 <img src="https://img.shields.io/badge/LangGraph-F4A261?style=flat-square"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
@@ -150,9 +151,9 @@ Six specialized LLM agents (Fundamental, Technical, Sentiment, Macro, Risk, Stra
 <td width="100%">
 
 ### 🏀 [CourtCommand](https://github.com/akshatbansal13/CourtCommand)
-**Real-Time Tournament Administration & Predictive Strategic Analysis System**
+**Real-Time Tournament Administration & Predictive Analytics System**
 
-Basketball tournament management platform with a live, WebSocket-powered GameCast, a scorer interface, and a Python/Flask "Virtual Assistant Coach" microservice that grades player performance and forecasts stats from career averages.
+A full-stack tournament management platform that digitizes tournament operations through a centralized admin dashboard for team registration, fixture scheduling, live scoring, and player management. Integrated a real-time GameCast portal using Socket.IO WebSockets to deliver low-latency updates. Built a "Virtual Assistant Coach" AI module using Scikit-learn, Pandas, and Flask to combine team-level outcome prediction with player-level performance analytics, delivering score forecasting and AI-driven training recommendations from historical match data.
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
@@ -162,11 +163,11 @@ Basketball tournament management platform with a live, WebSocket-powered GameCas
 <td width="100%">
 
 ### 📄 [ResumeGenX](https://github.com/akshatbansal13/ResumeGenX)
-**Compiler-Based ATS Resume Generator**
+**Full-Stack Compiler-Based Resume Generation Platform**
 
-A custom Domain-Specific Language compiler built from scratch in Java — with its own lexer, parser, and semantic analyzer — that turns a hand-written `.rdl` file into deterministic, ATS-friendly LaTeX/PDF resumes. No LLM hallucinations; pure AST-to-template generation.
+Developed a compiler-based resume generation platform featuring a custom Lexer, Parser, Semantic Analyzer, and AST pipeline to validate structured resume data and generate deterministic, ATS-friendly LaTeX/PDF resumes. Implemented the Lexer to tokenize a custom resume DSL, enabling accurate lexical analysis. Built a local web IDE with real-time compiler diagnostics, instant PDF previews, and flexible template support to make producing professional, error-free resumes effortless.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Compiler_Design-4B32C3?style=flat-square"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
 
 </td>
 </tr>
@@ -176,7 +177,7 @@ A custom Domain-Specific Language compiler built from scratch in Java — with i
 ### 🪖 [ArmouryNet](https://github.com/akshatbansal13/ArmouryNet)
 **Role-Based Battalion Inventory Management System**
 
-Digitizes personnel, weapons, logistics, and transport tracking for a battalion with RBAC dashboards for eight distinct roles, automated low-stock/maintenance alerts, and PDF report generation.
+A comprehensive tracking platform designed to digitize inventory pipelines for defense battalions. Implements strict Role-Based Access Control (RBAC) across distinct administrative levels to manage personnel, weapons, logistics, and transport tracking. Features automated threshold alerts for low stocks and maintenance cycles, alongside secure PDF reporting systems for seamless battalion oversight.
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/EJS-90A93A?style=flat-square"/>
 
@@ -186,40 +187,10 @@ Digitizes personnel, weapons, logistics, and transport tracking for a battalion 
 
 <br/>
 
-## Currently Exploring
-
-Built and shipped: LangChain, LangGraph (multi-agent orchestration), Retrieval-Augmented Generation, vector search with Qdrant — all live inside Finora.
-
-Actively going deeper on: advanced RAG (hybrid search, re-ranking), LLM evaluation and observability, and hardening agentic systems for production.
-
-<br/>
-
-## Stats
+## 🟩 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshatbansal13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatbansal13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9" width="30%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatbansal13&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshatbansal13&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
-
-</div>
-
-<sub>Stats and trophy cards are generated live by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> and <a href="https://github.com/ryo-ma/github-profile-trophy">github-profile-trophy</a> — if one is briefly slow to load, refreshing the page resolves it.</sub>
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-
-<!-- pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshatbansal13/akshatbansal13/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshatbansal13/akshatbansal13/output/pacman-contribution-graph.svg">
@@ -227,35 +198,17 @@ Actively going deeper on: advanced RAG (hybrid search, re-ranking), LLM evaluati
 </picture>
 
 </div>
-<br/>
-
-## Terminal
-
-<div align="center">
-<pre>
-$ ./akshat --profile
-
-> AI/ML Engineer
-> Generative AI Developer
-> Agentic AI Builder (LangGraph, RAG)
-> Final-Year CS Student
-> Open Source Explorer
-
-[ SYSTEM ONLINE ]
-</pre>
-</div>
 
 <br/>
 
-## Contact
+## 🌐 Contact
 
 <div align="center">
-<pre>
-Let's build something intelligent.
-</pre>
 
-<a href="https://github.com/akshatbansal13"><img src="https://img.shields.io/badge/GitHub-akshatbansal13-0d1117?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0d1117" /></a>
-<a href="https://www.linkedin.com/in/akshat-bansal-900364323/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4&labelColor=0d1117" /></a>
-<a href="https://huggingface.co/aksh13"><img src="https://img.shields.io/badge/Hugging%20Face-aksh13-0d1117?style=for-the-badge&logo=huggingface&logoColor=00F5D4&labelColor=0d1117" /></a>
+<p><i>Let's build something intelligent together :)</i></p>
+
+<a href="https://github.com/akshatbansal13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akshat13bansal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://huggingface.co/aksh13"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 
 </div>
