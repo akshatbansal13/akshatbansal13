@@ -37,6 +37,7 @@
 </div>
 <br/>
 
+<a id="about"></a>
 ## 👤 About
 I’m a Computer Science undergraduate specializing in AI/ML, passionate about building GenAI, Agentic AI, and intelligent data-driven systems.
 
@@ -46,6 +47,7 @@ Currently exploring LLMs, Agentic AI, RAG, finance and financial technology.
 
 <br/>
 
+<a id="stack"></a>
 ## ⚙️ Stack
 
 <table>
@@ -132,6 +134,7 @@ Currently exploring LLMs, Agentic AI, RAG, finance and financial technology.
 
 <br/>
 
+<a id="projects"></a>
 ## 🚀 Projects
 
 <table width="100%">
@@ -187,6 +190,7 @@ A comprehensive tracking platform designed to digitize inventory pipelines for d
 
 <br/>
 
+<a id="contribution-graph"></a>
 ## 🟩 Contribution Graph
 
 <div align="center">
@@ -201,6 +205,7 @@ A comprehensive tracking platform designed to digitize inventory pipelines for d
 
 <br/>
 
+<a id="contact"></a>
 ## 🌐 Contact
 
 <div align="center">
