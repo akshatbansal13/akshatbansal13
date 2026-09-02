@@ -215,5 +215,9 @@ A comprehensive tracking platform designed to digitize inventory pipelines for d
 <a href="https://github.com/akshatbansal13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/akshat13bansal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://huggingface.co/aksh13"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+<div align="center">
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=akshatbansal13&label=PROFILE+VIEWS&color=0e75b6&style=flat)
+
+</div></div>
+
